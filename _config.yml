@@ -1,1 +1,2 @@
+exclude: ["about/index.html"]
 include: [".well-known"]
